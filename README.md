@@ -10,5 +10,9 @@ And do navigation between Home and Details Screen Without using argument and var
        I have Completed task in 1 hour<br>
 
 Screenshots : <br>
-      
-       
+      <img src ="https://github.com/user-attachments/assets/d4a4d142-eac4-491c-b05b-2c07c3257d37"  height="400px"  width="200px" />
+      <img src ="https://github.com/user-attachments/assets/13f62481-34b3-480e-9d25-5302f8866256"  height="400px"  width="200px" />
+ 
+
+
+        
