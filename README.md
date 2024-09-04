@@ -1,16 +1,14 @@
 # task
 
-A new Flutter project.
+My Task was call this 2 API :
+    https://jsonplaceholder.typicode.com/posts/
+    https://jsonplaceholder.typicode.com/posts/1
 
-## Getting Started
+Using Get and http package
+And do navigation between Home and Details Screen Without using argument and variable 
+       so i have to pass data using 2nd API 
+       I have Completed task in 1 hour
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Screenshots : 
+      
+       
